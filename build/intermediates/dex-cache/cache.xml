@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_158a36203eb59418214393d46bb95656e8ffc813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5899788ea351247190a59530ca0cb7f53de9fdbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_725c42b140032fbedf64ec2a928b6f559c7e00e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_673da5e18cf47a8ccb85da8a848e99ef954eabfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_6c17dab6cea0a6c5fab0f6ee1a94522915de0120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_35e4d58eb63f3e237b6126cb0a850edbd2f7cef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_2c19f559bee88e592e6353f7091cb1f3a3f18cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_adb987c1b4e3db9bfe92b24d96bfa7ee87e92bdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bc129ac0c9d1c72f3201368b1d0159e9eb75dada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_d8faada808e7edd5bdc09421f5611534196313d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_fbbb9fa30fe4014a0896a7d14ddda39ee0d41ddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_702e49102d1520fc875f3e21bf6c87de0be07280.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3e33378f4f15c909624a7e2afb4aa3836a0d7097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/ADTLinux_x86_64/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_0849122ae99bb9dff74fd343151649aeeace43d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_ccfe3ff042ded01afb0ae4b2b704fa53e2caba54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk16/1.45/612d4afcd33f05a5ffdd9cf835e3bd4e3b44018/bcprov-jdk16-1.45.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0612d4afcd33f05a5ffdd9cf835e3bd4e3b44018">
+        <dex dex="/home/halimahanafy/Desktop/Untitled Folder/256-AES-Android-/app/build/intermediates/pre-dexed/debug/bcprov-jdk16-1.45_e868cf9b0f3a5ed46576247554eddf46dd9b9f60.jar" />
+    </item>
+
+</items>
